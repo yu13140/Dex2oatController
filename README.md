@@ -1,0 +1,2 @@
+# Dex2oatController
+一个快捷控制应用进行dex2oat编译的软件
